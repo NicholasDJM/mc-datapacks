@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"description": "Adds tool & armour progression via the smithing table, requiring you to acquire all tier's materials.",
+		"pack_format": "9"
+	}
+}
