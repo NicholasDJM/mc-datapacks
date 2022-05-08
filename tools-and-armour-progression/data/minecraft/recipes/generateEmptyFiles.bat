@@ -20,7 +20,7 @@ set variation=1
 	:variation
 		if %variation% EQU 1 set material=stone
 		if %variation% EQU 2 set material=iron
-		if %variation% EQU 3 set material=gold
+		if %variation% EQU 3 set material=golden
 		if %variation% EQU 4 set material=diamond
 		echo {}>%material%_%piece%.json
 		if %variation% LSS 4 (
