@@ -1,4 +1,4 @@
-# Tool & Armour Progression [![License MIT](https://img.shields.io/github/license/NicholasDJM/mc-datapacks)](https://github.com/NicholasDJM/mc-datapacks/blob/8d6cad4f14c42a0ea76993cb2a8a7d84a37e2e82/LICENSE) ![For Minecraft Java 1.18, 1.17, 1.16](https://img.shields.io/badge/Minecraft%20Java-1.1.8%2C%201.17%2C%201.16-informational)
+# Tools & Armour Progression [![License MIT](https://img.shields.io/github/license/NicholasDJM/mc-datapacks)](https://github.com/NicholasDJM/mc-datapacks/blob/8d6cad4f14c42a0ea76993cb2a8a7d84a37e2e82/LICENSE) ![For Minecraft Java 1.18, 1.17, 1.16](https://img.shields.io/badge/Minecraft%20Java-1.1.8%2C%201.17%2C%201.16-informational)
 Removes the crafting recipes for tools and armour except for leather armour and wood tools, and adds smithing recipes for each tier, requiring you to obtain all materials in each tier to get them. The Turtle helmet is unaffected.
 
 ![WARNING:](https://img.shields.io/badge/-WARNING-important?style=flat-square) Adding this datapack to your game means you will not be able to upgrade your items unless you find either a smithing table in a village, or some iron ingots!
