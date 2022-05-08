@@ -19,7 +19,7 @@ Select the version of the datapack you want to install from the table below:
 | Version | Minecraft Version(s) | Download Link | Notes |
 |---|---|---|---|
 | Vanilla | 1.18, 1.17, 1.16 | <a href="https://github.com/NicholasDJM/mc-datapacks/releases/download/tools-and-armour-progression-latest/tools-and-armour-progression.zip" download>Download</a> | |
-| Copperized | 1.18, 1.17 | <a href="https://github.com/NicholasDJM/mc-datapacks/releases/download/tools-and-armour-progression-latest/tools-and-armour-progression-plus-copperized.zip" download>Download</a> | For the [Copperized Forge Mod](https://www.curseforge.com/minecraft/mc-mods/copperized) |
+| Copperized | 1.18, 1.17 | <a href="https://github.com/NicholasDJM/mc-datapacks/releases/download/tools-and-armour-progression-latest/tools-and-armour-progression-plus-copperized.zip" download>Download</a> | For the [Copperized Forge Mod](https://www.curseforge.com/minecraft/mc-mods/copperized).<br>Copper is between Chainmail/Stone and Iron |
 - Do not install more than one datapack, choose one.
 
 ### For creating a new world:
