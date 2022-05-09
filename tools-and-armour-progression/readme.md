@@ -29,7 +29,7 @@ Select the version of the datapack you want to install from the table below. Do 
 3. Click on Create New World at the bottom.
 4. Click on Data Packs.
 5. Click on Open Pack Folder at the bottom, this will create and open a temporary folder in your file manager.
-6. Where ever you have download the datapack, right click, and select "Copy".
+6. Where ever you have downloaded the datapack, right click, and select "Copy".
 	- For Chrome and Chromium based browsers, at the bottom of the browser window, click the dropdown next to the file, and click "Show in Folder"
 	- For Firefox, at the top right of the browser window, click the download button, and click the folder icon.
 	- If you can't find these options, press Control and J at the same time to open the downloads page or window.
@@ -46,7 +46,7 @@ Select the version of the datapack you want to install from the table below. Do 
 4. Click Edit on the bottom.
 5. Click Open World Folder.
 6. Double click on the "datapack" folder.
-7. Where ever you have download the datapack, right click, and select "Copy".
+7. Where ever you have downloaded the datapack, right click, and select "Copy".
 	- For Chrome and Chromium based browsers, at the bottom of the browser window, click the dropdown next to the file, and click "Show in Folder"
 	- For Firefox, at the top right of the browser window, click the download button, and click the folder icon.
 	- If you can't find these options, press Control and J at the same time to open the downloads page or window.
