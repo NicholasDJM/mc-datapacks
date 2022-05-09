@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:smithing",
+	"base": {
+		"item": "emeraldequipment:emerald_axe"
+	},
+	"addition": {
+		"item": "minecraft:diamond"
+	},
+	"result": {
+		"item": "minecraft:diamond_axe"
+	}
+}

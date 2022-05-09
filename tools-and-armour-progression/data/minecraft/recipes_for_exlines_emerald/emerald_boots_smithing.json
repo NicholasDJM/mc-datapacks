@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:smithing",
+	"base": {
+		"item": "minecraft:golden_boots"
+	},
+	"addition": {
+		"item": "minecraft:emerald"
+	},
+	"result": {
+		"item": "emeraldequipment:emerald_boots"
+	}
+}
