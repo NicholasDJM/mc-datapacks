@@ -22,7 +22,13 @@ set variation=1
 		if %variation% EQU 2 set material=iron
 		if %variation% EQU 3 set material=golden
 		if %variation% EQU 4 set material=diamond
-		echo {}>%material%_%piece%.json
+		if %material%==stone (
+			if not %piece%==helmet if not %piece%==chestplate if not %piece%==leggings if not %piece%==boots (
+				echo {}>%material%_%piece%.json
+			)
+		) else (
+			echo {}>%material%_%piece%.json
+		)
 		if %variation% LSS 4 (
 			set /a variation=%variation%+1
 			goto :variation
